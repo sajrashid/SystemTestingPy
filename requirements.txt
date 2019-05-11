@@ -1,0 +1,2 @@
+requests https://2.python-requests.org/en/master/
+pyassert https://github.com/pyclectic/pyassert

@@ -1,0 +1,22 @@
+{
+  "apis": [
+    {
+      "url": "https://restful-booker.herokuapp.com/booking",
+      "verbs": [
+        {
+          "name": "get",
+          "params": null
+        }
+      ]
+    },
+    {
+      "url": "https://restful",
+      "verbs": [
+        {
+          "name": "get",
+          "params": null
+        }
+      ]
+    }
+  ]
+}
